@@ -11,3 +11,6 @@
 - Operadores (Neste módulo aprendemos o básico sobre a aplicação de operadores na linguagem Java.)
   
 - Métodos (Neste módulo aprendemos o básico sobre definição de métodos e seus tipos na linguagem Java.)
+  
+- Escopo (Neste módulo aprendemos o básico sobre o funcionamento de escopos na linguagem Java.)
+  
