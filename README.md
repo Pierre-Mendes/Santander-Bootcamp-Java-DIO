@@ -5,6 +5,9 @@
 ## Módulos
 
 - Anatomia de Classes (Neste módulo aprendemos o básico sobre sintaxe e anatomia de classes na linguagem Java.)
+  
 - Tipos e variáveis (Neste módulo aprendemos o básico sobre definição de tipos de variáveis na linguagem Java.)
+  
 - Operadores (Neste módulo aprendemos o básico sobre a aplicação de operadores na linguagem Java.)
+  
 - Métodos (Neste módulo aprendemos o básico sobre definição de métodos e seus tipos na linguagem Java.)
